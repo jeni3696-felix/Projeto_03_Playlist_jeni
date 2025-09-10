@@ -49,6 +49,12 @@ elif genero_selecionado == "POP INTERNACIONAL" and musica_selecionada == "WHEN|W
 
 elif genero_selecionado == "TRAP" and musica_selecionada == "SUPERMAN" :
     st.video("http://youtube.com/watch?v=lPlePBCS6Ic&list=RDlPlePBCS6Ic&start_radio=1")
-    
+
+elif genero_selecionado == "TRAP" and musica_selecionada == "BUTTERFLY EFFECT" :
+    st.video("https://www.youtube.com/watch?v=_EyZUTDAH0U&list=RD_EyZUTDAH0U&start_radio=1")
+
+elif genero_selecionado == "TRAP" and musica_selecionada == "SMACK THAT" :
+    st.video("https://www.youtube.com/watch?v=bKDdT_nyP54&list=RDbKDdT_nyP54&start_radio=1")    
+
 
 
