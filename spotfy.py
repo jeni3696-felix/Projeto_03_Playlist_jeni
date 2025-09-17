@@ -68,6 +68,16 @@ elif genero_selecionado == "TRAP" and musica_selecionada == "BUTTERFLY EFFECT" :
 elif genero_selecionado == "TRAP" and musica_selecionada == "SMACK THAT" :
     st.video("https://www.youtube.com/watch?v=bKDdT_nyP54&list=RDbKDdT_nyP54&start_radio=1")
     st.link_button(url='https://open.spotify.com/intl-pt/artist/0z4gvV4rjIZ9wHck67ucSV', label="Spotify", icon="🔊")   
+   
 
+elif genero_selecionado == "DISNEY" and musica_selecionada == "VEJO EM FIM A LUZ BRILHAR" :
+    st.video("https://www.youtube.com/watch?v=sRITrFmTT3s")
+    st.link_button(url='https://open.spotify.com/intl-pt/track/3vit743HobxF9rQxrMZf1c?si=4bb5bc3216e346c9', label="Spotify", icon="🔊")    
 
+elif genero_selecionado == "DISNEY" and musica_selecionada == "UM MUNDO IDEAL" :
+    st.video("https://youtu.be/uXu-pB_OOV4")
+    st.link_button(url='https://open.spotify.com/intl-pt/track/6bsOElR8E9KUJ00xy9PenR?si=00af8d6920d44620', label="Spotify", icon="🔊")    
 
+elif genero_selecionado == "DISNEY" and musica_selecionada == "VEJO UMA PORTA ABRIR" :
+    st.video("https://youtu.be/78KnNoyYFSk")
+    st.link_button(url='https://open.spotify.com/intl-pt/track/4ytLRQ2hP9fee61d14z43m?si=a2628576b64f4922', label="Spotify", icon="🔊")   
